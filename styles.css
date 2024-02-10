@@ -177,4 +177,5 @@ header {
   margin-top: -20vh; 
   margin-bottom: 5%; 
   margin-right: 5%;
+  justify-content: flex-end;
 }
